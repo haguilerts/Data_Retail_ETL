@@ -3,7 +3,7 @@
 
 >>>>>>> 05a6e38d65c7eacac3695b5351b847f474eaf772
 # [NOMBRE DEL PROYECTO] | Análisis de Ventas Retail (2021-2023) 📈
-<img src="img/Tendencia_ventas_mensuales .png" alt="Venta Mensual" width="500" height="300" style="display: block; margin: 0 auto;">
+<img src="img/Tendencia_ventas_mensuales .png" alt="Venta Mensual" width="1000" height="300" style="display: block; margin: 0 auto;">
 Este proyecto implementa un flujo de **ETL (Extracción, Transformación y Carga)** y posterior **Análisis de Datos Descriptivo** sobre transacciones de venta de múltiples centros comerciales, con el objetivo de identificar patrones clave de consumo, demografía de clientes (género y edad) y rendimiento de productos.
 ## 📋 Tabla de Contenidos
 
