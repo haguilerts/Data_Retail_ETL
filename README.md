@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-=======
 
->>>>>>> 05a6e38d65c7eacac3695b5351b847f474eaf772
-# [NOMBRE DEL PROYECTO] | Análisis de Ventas Retail (2021-2023) 📈
+# | Análisis de Ventas Retail (2021-2023) 📈
 <img src="img/Tendencia_ventas_mensuales .png" alt="Venta Mensual" width="1000" height="600" style="display: block; margin: 0 auto;">
 Este proyecto implementa un flujo de **ETL (Extracción, Transformación y Carga)** y posterior **Análisis de Datos Descriptivo** sobre transacciones de venta de múltiples centros comerciales, con el objetivo de identificar patrones clave de consumo, demografía de clientes (género y edad) y rendimiento de productos.
 ## 📋 Tabla de Contenidos
@@ -36,7 +33,9 @@ Para ejecutar el *notebook* y el flujo de ETL completo, se requiere:
 ### 2. Librerías de Python
 Instalar las dependencias usando `pip`:
 
-
+pip install sqlalchemy mysql-connector-python
+pip install pymysql
+<img src="img/Distribuicion_denta _categoria .png" alt="Venta Mensual" width="1000" height="600" style="display: block; margin: 0 auto;">
 ```bash
 pip install pandas sqlalchemy pymysql matplotlib seaborn jupyter
 ## 📈 Resultados Clave del Análisis Descriptivo
