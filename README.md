@@ -35,6 +35,8 @@ Instalar las dependencias usando `pip`:
 
 pip install sqlalchemy mysql-connector-python
 pip install pymysql
+# 
+
 <img src="img/Distribuicion_denta _categoria .png" alt="Venta Mensual" width="1000" height="600" style="display: block; margin: 0 auto;">
 ```bash
 pip install pandas sqlalchemy pymysql matplotlib seaborn jupyter
