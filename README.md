@@ -49,7 +49,7 @@ El análisis arrojó conclusiones importantes sobre el comportamiento de compra 
 * **Impacto de Categoría:** La categoría **Shoes** es la más vendida por frecuencia, mientras que **Technology** tiene el precio promedio más alto ($3,157).
 * **Ubicación Clave:** La mayoría de las transacciones se concentran en **Mall of Istanbul** y **Kanyon**.
 <<<<<<< HEAD
-<img src="img/Tendencia_ventas_mensuales .png" alt="Venta Mensual" width="500" height="300" style="display: block; margin: 0 auto;">
+<img src="img/Distribuicion_denta _categoria .png" alt="Venta Mensual" width="500" height="300" style="display: block; margin: 0 auto;">
 =======
 
 >>>>>>> 05a6e38d65c7eacac3695b5351b847f474eaf772
