@@ -31,6 +31,7 @@ Para ejecutar el *notebook* y el flujo de ETL completo, se requiere:
 * **Base de Datos:** `ispc` (configurada para recibir la tabla `ventas_clientes_clean`).
 
 ### 2. Librerías de Python
+
 <img src="img/Distribuicion_denta_categoria.png" alt="venta_categoria" width="1000" height="500" style="display: block; margin: 0 auto;">
 Instalar las dependencias usando `pip`:
 
